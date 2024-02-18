@@ -4,15 +4,18 @@
 
 1)AIM OF THE PROJECT
 
-The aim of this project is to wafer defect detection using machine learning algorithms
+The aim of this project is to wafer defect detection using machine learning algorithms.
+Develop an appropriate CNN model to identify different types of wafer map failure
+pattern based on the given dataset
 
 2)UNIQUENESS/DIFFERENTIATOR TRIED OUT IN THE PROJECT
 
-SVM model has been tried as a new methodology with existing model
+CNN model to identify different types of wafer map failure
+pattern based on the given dataset
 
 3)METRICS OF THE PROJECT
 
-Model accuracy for SVM: 0.78
+Model accuracy for CNN : 77.0344%
 
 4)METRICS The calculated metric terms are
 
@@ -29,6 +32,3 @@ Precision: 0.91
 
 
 Recall: 0.90
-
-
-Live prediction
