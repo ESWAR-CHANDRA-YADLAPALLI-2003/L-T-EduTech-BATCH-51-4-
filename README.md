@@ -5,6 +5,7 @@
 1)AIM OF THE PROJECT
 
 The aim of this project is to wafer defect detection using machine learning algorithms.
+
 Develop an appropriate CNN model to identify different types of wafer map failure
 pattern based on the given dataset
 
